@@ -19,7 +19,7 @@
 ## :rocket: Sobre a aplicação
 
 Neste aplicação foi desenvolvido a aplicação front-end da aplicação gofinances, que tem como objetivo controlar as finanças pessoais.
-Repositório do back-end <a href="https://github.com/fpuntel/gostack-template-typeorm-upload">Back-end</a>
+Repositório: <a href="https://github.com/fpuntel/gostack-template-typeorm-upload">Back-end</a>.
 
 Página inicial: 
 
